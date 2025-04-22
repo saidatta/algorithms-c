@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Algorithms-C
 
 A comprehensive C data structures and algorithms library designed for learning and implementing common data structures and algorithms.
@@ -105,3 +106,7 @@ To open the project in CLion:
 ## License
 
 This project is open source and available under the MIT License.
+=======
+# algorithms-c
+algorithms in c
+>>>>>>> 8134638b5d4fe366db6da05d4d28b64f7492fa8b
